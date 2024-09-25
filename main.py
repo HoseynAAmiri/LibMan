@@ -9,7 +9,6 @@ library = Library(books=book_list)
 library.register_member(hoseyn)
 library.borrow_book(hoseyn.member_id, 111111)
 library.borrow_book(hoseyn.member_id, 555555)
-library.borrow_book(hoseyn.member_id, 666666)
 
 print(library.list_members())
 print(library.list_books())
