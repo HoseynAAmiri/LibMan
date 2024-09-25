@@ -1,3 +1,3 @@
 # LibMan: Library Manager Package
 
-This is a library management package made by old friends for fun :)
+A library management package made by old friends for fun :) and OOP practicing.
